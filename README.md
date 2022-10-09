@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ramon-valdevino
 - 👀 I’m interested in desenvolvimeto junior.
 - 🌱 I’m currently fazendo ADS na faculdade catolica de brasilia.
-- 💞️ I’m looking to collaborate e aprender  mais sobre esse mundo da progrtamção
+- 💞️ I’m looking to collaborate e aprender  mais sobre esse mundo da programação.
 - 📫 How to reach me gmail:ramonrodriguesvaldevino@gmail.com
 
 <!---
